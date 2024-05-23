@@ -1,3 +1,5 @@
 .history/
 venv/
-venv/bin/
+.venv/
+venv/
+
